@@ -3,7 +3,7 @@
 //  PsyPrefs
 //
 //  Created by Nicole Alana Grace on 2018-07-04.
-//  Copyright © 2018 The O.I.C. All rights reserved.
+//  Copyright © 2018 The O.I.C., FOSS under GPL.
 //
 
 #import "AppDelegate.h"

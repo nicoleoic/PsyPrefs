@@ -7,14 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B5A1D1B20F0303500D7E361 /* updates-disable.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6B5A1D1920F0303500D7E361 /* updates-disable.scpt */; };
+		6B5A1D1C20F0303500D7E361 /* updates-enable.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6B5A1D1A20F0303500D7E361 /* updates-enable.scpt */; };
+		6B5A1D1F20F0337600D7E361 /* itunes-enable.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6B5A1D1D20F0337500D7E361 /* itunes-enable.scpt */; };
+		6B5A1D2020F0337600D7E361 /* itunes-disable.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6B5A1D1E20F0337500D7E361 /* itunes-disable.scpt */; };
 		6B7A3F6F20ED531300BF4245 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7A3F6E20ED531300BF4245 /* AppDelegate.m */; };
 		6B7A3F7220ED531300BF4245 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7A3F7120ED531300BF4245 /* ViewController.m */; };
 		6B7A3F7420ED531800BF4245 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B7A3F7320ED531800BF4245 /* Assets.xcassets */; };
 		6B7A3F7720ED531800BF4245 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B7A3F7520ED531800BF4245 /* Main.storyboard */; };
 		6B7A3F7A20ED531800BF4245 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7A3F7920ED531800BF4245 /* main.m */; };
+		6BC71D2920ED9E44005C1959 /* ss-pdf.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6BC71D2420ED9E43005C1959 /* ss-pdf.scpt */; };
+		6BC71D2A20ED9E44005C1959 /* ss-gif.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6BC71D2520ED9E43005C1959 /* ss-gif.scpt */; };
+		6BC71D2B20ED9E44005C1959 /* ss-jpg.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6BC71D2620ED9E43005C1959 /* ss-jpg.scpt */; };
+		6BC71D2C20ED9E44005C1959 /* ss-tiff.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6BC71D2720ED9E44005C1959 /* ss-tiff.scpt */; };
+		6BC71D2D20ED9E44005C1959 /* ss-png.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 6BC71D2820ED9E44005C1959 /* ss-png.scpt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B5A1D1920F0303500D7E361 /* updates-disable.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "updates-disable.scpt"; sourceTree = "<group>"; };
+		6B5A1D1A20F0303500D7E361 /* updates-enable.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "updates-enable.scpt"; sourceTree = "<group>"; };
+		6B5A1D1D20F0337500D7E361 /* itunes-enable.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "itunes-enable.scpt"; sourceTree = "<group>"; };
+		6B5A1D1E20F0337500D7E361 /* itunes-disable.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "itunes-disable.scpt"; sourceTree = "<group>"; };
 		6B7A3F6A20ED531300BF4245 /* PsyPrefs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PsyPrefs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B7A3F6D20ED531300BF4245 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6B7A3F6E20ED531300BF4245 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -25,6 +38,11 @@
 		6B7A3F7820ED531800BF4245 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B7A3F7920ED531800BF4245 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6B7A3F7B20ED531800BF4245 /* PsyPrefs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PsyPrefs.entitlements; sourceTree = "<group>"; };
+		6BC71D2420ED9E43005C1959 /* ss-pdf.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ss-pdf.scpt"; sourceTree = "<group>"; };
+		6BC71D2520ED9E43005C1959 /* ss-gif.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ss-gif.scpt"; sourceTree = "<group>"; };
+		6BC71D2620ED9E43005C1959 /* ss-jpg.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ss-jpg.scpt"; sourceTree = "<group>"; };
+		6BC71D2720ED9E44005C1959 /* ss-tiff.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ss-tiff.scpt"; sourceTree = "<group>"; };
+		6BC71D2820ED9E44005C1959 /* ss-png.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ss-png.scpt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +75,7 @@
 		6B7A3F6C20ED531300BF4245 /* PsyPrefs */ = {
 			isa = PBXGroup;
 			children = (
+				6BC71D2320ED9E36005C1959 /* Scripts */,
 				6B7A3F6D20ED531300BF4245 /* AppDelegate.h */,
 				6B7A3F6E20ED531300BF4245 /* AppDelegate.m */,
 				6B7A3F7020ED531300BF4245 /* ViewController.h */,
@@ -68,6 +87,22 @@
 				6B7A3F7B20ED531800BF4245 /* PsyPrefs.entitlements */,
 			);
 			path = PsyPrefs;
+			sourceTree = "<group>";
+		};
+		6BC71D2320ED9E36005C1959 /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				6B5A1D1E20F0337500D7E361 /* itunes-disable.scpt */,
+				6B5A1D1D20F0337500D7E361 /* itunes-enable.scpt */,
+				6B5A1D1920F0303500D7E361 /* updates-disable.scpt */,
+				6B5A1D1A20F0303500D7E361 /* updates-enable.scpt */,
+				6BC71D2520ED9E43005C1959 /* ss-gif.scpt */,
+				6BC71D2620ED9E43005C1959 /* ss-jpg.scpt */,
+				6BC71D2420ED9E43005C1959 /* ss-pdf.scpt */,
+				6BC71D2820ED9E44005C1959 /* ss-png.scpt */,
+				6BC71D2720ED9E44005C1959 /* ss-tiff.scpt */,
+			);
+			path = Scripts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -101,6 +136,11 @@
 				TargetAttributes = {
 					6B7A3F6920ED531200BF4245 = {
 						CreatedOnToolsVersion = 9.4.1;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -127,7 +167,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B5A1D2020F0337600D7E361 /* itunes-disable.scpt in Resources */,
+				6BC71D2A20ED9E44005C1959 /* ss-gif.scpt in Resources */,
+				6BC71D2920ED9E44005C1959 /* ss-pdf.scpt in Resources */,
+				6B5A1D1F20F0337600D7E361 /* itunes-enable.scpt in Resources */,
+				6BC71D2B20ED9E44005C1959 /* ss-jpg.scpt in Resources */,
+				6B5A1D1B20F0303500D7E361 /* updates-disable.scpt in Resources */,
 				6B7A3F7420ED531800BF4245 /* Assets.xcassets in Resources */,
+				6BC71D2C20ED9E44005C1959 /* ss-tiff.scpt in Resources */,
+				6BC71D2D20ED9E44005C1959 /* ss-png.scpt in Resources */,
+				6B5A1D1C20F0303500D7E361 /* updates-enable.scpt in Resources */,
 				6B7A3F7720ED531800BF4245 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +321,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = PsyPrefs/PsyPrefs.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = SJKVUHQB8V;
@@ -290,7 +338,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = PsyPrefs/PsyPrefs.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = SJKVUHQB8V;
